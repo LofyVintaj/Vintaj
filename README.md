@@ -1,4 +1,13 @@
 ### Hi there 👋
+## About me skills: 
+ - Python ( OOP, MVC, REST API) 
+ - VCS: Git
+## Frontend:
+ - HTML/CSS/JS
+## Backend: 
+ - Python ( Django, FastApi )
+ - SQL-db: MySQL, PostgreSQL
+ - NoSQL-db: MongoDB
 
 <!--
 **Vintaj/Vintaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
