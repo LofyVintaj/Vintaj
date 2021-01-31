@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Vintaj ( Semyon Smirnov ) 
+# ⚡ Vintaj ⚡ ( Semyon Smirnov ) 
 ## About me skills: 
  - Python ( OOP, MVC, REST API) 
  - VCS: Git
