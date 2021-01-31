@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Vintaj ( Semen Smirnov ) 
 ## About me skills: 
  - Python ( OOP, MVC, REST API) 
  - VCS: Git
