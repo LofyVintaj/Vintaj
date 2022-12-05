@@ -1,15 +1,21 @@
 ### Hi there 👋
 # ⚡ Vintaj ⚡ ( Semyon Senkevich ) 
-## About me skills: 
- - Python ( OOP, MVC, REST API) 
- - VCS: Git
-## Frontend:
+## About me 🌱:  
+ - Python Language 
+ - Backend Developer
+ - Bot Developer
+ - Docker
+ - CI/CD 
+ - Frontend ( Low )
+## Frontend 🤔:
  - HTML/CSS/JS
-## Backend: 
- - Python ( Django, FastApi )
- - SQL-db: MySQL, PostgreSQL
+ - React ( Low ) 
+## Backend 😄: 
+ - Python ( Django, FastApi, Flask ) 🔭
+ - SQL, PostgreSQL
  - NoSQL-db: MongoDB
-
+ - Docker 
+ - Nginx
 <!--
 **Vintaj/Vintaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
